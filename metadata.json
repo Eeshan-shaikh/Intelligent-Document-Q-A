@@ -1,0 +1,5 @@
+
+{
+  "name": "Intelligent Document Q&A",
+  "description": "Upload a document and ask questions about its content. This RAG (Retrieval-Augmented Generation) system uses Gemini to provide intelligent answers based on your file."
+}
